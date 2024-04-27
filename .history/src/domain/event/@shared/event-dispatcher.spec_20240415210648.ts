@@ -1,0 +1,1 @@
+describe("Domain events tests", )

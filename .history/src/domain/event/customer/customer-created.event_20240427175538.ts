@@ -1,0 +1,1 @@
+export default class CustomerCreatedEvents implements EventIn

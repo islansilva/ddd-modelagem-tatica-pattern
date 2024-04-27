@@ -1,0 +1,3 @@
+describe("Domain events tests", () => {
+
+});
